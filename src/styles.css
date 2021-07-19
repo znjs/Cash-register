@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+}
+
+.inital {
+  width: 2.5rem;
+}
+
+.elements {
+  width: 2rem;
+}
+button {
+  margin: 1.5rem auto;
+}
+td,
+th {
+  border: 1px solid black;
+  padding: 1rem;
+}
+
+#output,
+#amount {
+  display: none;
+}
